@@ -2,7 +2,7 @@
 
 Record your screen, facecam and narration on iPhone, iPad and Mac, then work with a local MP4.
 
-[Official product website](https://reel-screen-recorder.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) · [Side-by-side comparisons](https://reel-screen-recorder.arte-soft.com/compare/) · [Guides & workflows](https://reel-screen-recorder.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://reel-screen-recorder.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official product website](https://reel-screen-recorder.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/id6758941990?pt=127093297&ct=github_reel&mt=8) · [Side-by-side comparisons](https://reel-screen-recorder.arte-soft.com/compare/) · [Guides & workflows](https://reel-screen-recorder.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://reel-screen-recorder.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 

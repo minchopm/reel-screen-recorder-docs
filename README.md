@@ -2,7 +2,27 @@
 
 Record your screen, facecam and narration on iPhone, iPad and Mac, then work with a local MP4.
 
-[Official product website](https://reel-screen-recorder.arte-soft.com/) · [App Store listing](https://apps.apple.com/us/app/id6758941990?pt=127093297&ct=github_reel&mt=8) · [Side-by-side comparisons](https://reel-screen-recorder.arte-soft.com/compare/) · [Guides & workflows](https://reel-screen-recorder.arte-soft.com/articles/) · [Full LLM reference (llms-full.txt)](https://reel-screen-recorder.arte-soft.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://reel-screen-recorder.arte-soft.com/) · [Arte Soft portal](https://reel-studio.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) · [Comparisons](https://reel-screen-recorder.arte-soft.com/compare/) · [Guides](https://reel-screen-recorder.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://reel-screen-recorder.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://reel-screen-recorder.arte-soft.com/](https://reel-screen-recorder.arte-soft.com/) |
+| **Arte Soft Technical Portal** | [https://reel-studio.arte-soft.com/](https://reel-studio.arte-soft.com/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://reel-screen-recorder.arte-soft.com/compare/](https://reel-screen-recorder.arte-soft.com/compare/) |
+| **Portal Comparisons Hub** | [https://reel-studio.arte-soft.com/compare/](https://reel-studio.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://reel-screen-recorder.arte-soft.com/articles/](https://reel-screen-recorder.arte-soft.com/articles/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://reel-screen-recorder.arte-soft.com/llms-full.txt](https://reel-screen-recorder.arte-soft.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/reel-screen-recorder-docs/](https://minchopm.github.io/reel-screen-recorder-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Simultaneous screen capture and customizable floating PiP facecam with live framing and background blur.
+- Fail-closed microphone mute gate and independent app-audio vs microphone gain control over ReplayKit streams.
+- 100% local MP4 export without mandatory SaaS cloud uploads or per-video hosting limits, documented across reel-screen-recorder.arte-soft.com and reel-studio.arte-soft.com.
 
 ## Who this is for
 
@@ -39,4 +59,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.

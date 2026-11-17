@@ -1,28 +1,28 @@
-# Reel: Screen Recorder Face Cam — user documentation
+# Reel: Screen Recorder Face Cam — Official Documentation & Creator Guides
 
-Record your screen, facecam and narration on iPhone, iPad and Mac, then work with a local MP4.
+Record your screen, live floating Picture-in-Picture facecam, internal system/app audio, and microphone in one local MP4 take across **iPhone, iPad, and Mac**.
 
-[Official website](https://reel-screen-recorder.arte-soft.com/) · [Arte Soft portal](https://reel-studio.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) · [Comparisons](https://reel-screen-recorder.arte-soft.com/compare/) · [Guides](https://reel-screen-recorder.arte-soft.com/articles/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://reel-screen-recorder.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official Portal (`reel-studio`)](https://reel-studio.arte-soft.com/) · [App Store (`id6758941990`)](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) · [196 Technical Guides (`/articles/`)](https://reel-studio.arte-soft.com/articles/) · [12 Free Browser Tools (`/tools/`)](https://reel-studio.arte-soft.com/tools/) · [140 Recorder Comparisons (`/compare/`)](https://reel-studio.arte-soft.com/compare/) · [Product Hunt](https://www.producthunt.com/products/reel-screen-recorder) · [LLM Full Index (`llms-full.txt`)](https://reel-studio.arte-soft.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/)
 
-## Official Web Portals, Interactive Tools & Comparison Hubs
+## Official Web Portals, Free Browser Tools & Flagship Guides
 
-| Resource | Verified Canonical Link |
+| Resource | Canonical Link |
 | --- | --- |
-| **Primary Canonical Domain** | [https://reel-screen-recorder.arte-soft.com/](https://reel-screen-recorder.arte-soft.com/) |
-| **Arte Soft Technical Portal** | [https://reel-studio.arte-soft.com/](https://reel-studio.arte-soft.com/) |
-| **Apple App Store** | [https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) |
-| **Side-by-Side Comparisons (`/compare/`)** | [https://reel-screen-recorder.arte-soft.com/compare/](https://reel-screen-recorder.arte-soft.com/compare/) |
-| **Portal Comparisons Hub** | [https://reel-studio.arte-soft.com/compare/](https://reel-studio.arte-soft.com/compare/) |
-| **Guides & Workflows** | [https://reel-screen-recorder.arte-soft.com/articles/](https://reel-screen-recorder.arte-soft.com/articles/) |
-| **LLM Full Reference (`llms-full.txt`)** | [https://reel-screen-recorder.arte-soft.com/llms-full.txt](https://reel-screen-recorder.arte-soft.com/llms-full.txt) |
-| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/reel-screen-recorder-docs/](https://minchopm.github.io/reel-screen-recorder-docs/) |
-| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
-
-### Verified 2026 Capabilities
-
-- Simultaneous screen capture and customizable floating PiP facecam with live framing and background blur.
-- Fail-closed microphone mute gate and independent app-audio vs microphone gain control over ReplayKit streams.
-- 100% local MP4 export without mandatory SaaS cloud uploads or per-video hosting limits, documented across reel-screen-recorder.arte-soft.com and reel-studio.arte-soft.com.
+| **Primary Canonical Web Portal** | [https://reel-studio.arte-soft.com/](https://reel-studio.arte-soft.com/) |
+| **Apple App Store (iPhone, iPad & Mac)** | [https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990) |
+| **Product Hunt Official Product Page** | [https://www.producthunt.com/products/reel-screen-recorder](https://www.producthunt.com/products/reel-screen-recorder) |
+| **All 196 iOS & macOS Guides (`/articles/`)** | [https://reel-studio.arte-soft.com/articles/](https://reel-studio.arte-soft.com/articles/) |
+| **Keep Camera On Over Other Apps on iPhone (Live PiP)** | [https://reel-studio.arte-soft.com/articles/keep-camera-on-over-other-apps-iphone/](https://reel-studio.arte-soft.com/articles/keep-camera-on-over-other-apps-iphone/) |
+| **Record Mac Screen With Camera & Native System Audio** | [https://reel-studio.arte-soft.com/articles/record-mac-screen-with-camera/](https://reel-studio.arte-soft.com/articles/record-mac-screen-with-camera/) |
+| **Record Roblox on iPhone & iPad With Facecam (60fps)** | [https://reel-studio.arte-soft.com/articles/how-to-record-roblox-on-iphone-ipad-with-facecam/](https://reel-studio.arte-soft.com/articles/how-to-record-roblox-on-iphone-ipad-with-facecam/) |
+| **Show Touch Indicators & Taps on iPhone Screen Recording** | [https://reel-studio.arte-soft.com/articles/show-touches-taps-iphone-screen-recording/](https://reel-studio.arte-soft.com/articles/show-touches-taps-iphone-screen-recording/) |
+| **QuickTime Screen Recording No Audio on Mac — Fix** | [https://reel-studio.arte-soft.com/articles/quicktime-screen-recording-no-audio-mac-fix/](https://reel-studio.arte-soft.com/articles/quicktime-screen-recording-no-audio-mac-fix/) |
+| **11 Best Screen Recorders for Mac (2026)** | [https://reel-studio.arte-soft.com/articles/best-screen-recorders-for-mac-2026/](https://reel-studio.arte-soft.com/articles/best-screen-recorders-for-mac-2026/) |
+| **9 Best iPhone Screen Recorders With Facecam (2026)** | [https://reel-studio.arte-soft.com/articles/best-iphone-ipad-screen-recorders-with-facecam-2026/](https://reel-studio.arte-soft.com/articles/best-iphone-ipad-screen-recorders-with-facecam-2026/) |
+| **12 Free Zero-Upload Creator Browser Tools (`/tools/`)** | [https://reel-studio.arte-soft.com/tools/](https://reel-studio.arte-soft.com/tools/) · [Webcam Test](https://reel-studio.arte-soft.com/tools/webcam-facecam-test/) · [Mic Test](https://reel-studio.arte-soft.com/tools/microphone-audio-test/) · [Teleprompter](https://reel-studio.arte-soft.com/tools/online-teleprompter/) · [MOV to MP4](https://reel-studio.arte-soft.com/tools/mov-to-mp4-converter/) |
+| **140 Head-to-Head Comparisons (`/compare/`)** | [https://reel-studio.arte-soft.com/compare/](https://reel-studio.arte-soft.com/compare/) · [vs DemoScope](https://reel-studio.arte-soft.com/compare/reel-studio-vs-demoscope/) · [vs FaceScreen](https://reel-studio.arte-soft.com/compare/reel-studio-vs-facescreen/) · [vs Cap.so](https://reel-studio.arte-soft.com/compare/reel-studio-vs-cap-so/) · [vs CursorClip](https://reel-studio.arte-soft.com/compare/reel-studio-vs-cursorclip/) |
+| **LLM Reference (`llms.txt` / `llms-full.txt`)** | [https://reel-studio.arte-soft.com/llms.txt](https://reel-studio.arte-soft.com/llms.txt) · [https://reel-studio.arte-soft.com/llms-full.txt](https://reel-studio.arte-soft.com/llms-full.txt) |
+| **Companion Portal** | [https://reel-screen-recorder.arte-soft.com/](https://reel-screen-recorder.arte-soft.com/) |
 
 ## Who this is for
 

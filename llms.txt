@@ -1,38 +1,11 @@
-# Reel: Screen Recorder Face Cam — Public Documentation & Technical Reference
+# Reel: Screen Recorder Face Cam — Documentation & Guides Index
 
-> Native ReplayKit screen and floating Picture-in-Picture facecam recorder for iPhone, iPad, and Mac with fail-closed mute boundaries, independent app/mic gain controls, and direct local MP4 export.
+> Free screen recorder with live Picture-in-Picture facecam for iPhone, iPad, and Mac (App Store id6758941990). Records screen, camera, internal system/app audio, and microphone in one local MP4 take with no watermark and no time limit up to 1080p ($14.99 one-time lifetime Pro for Source Native resolution).
 
-## Publisher & Entity Provenance
-- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
-- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
-- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
-- **GitHub Documentation Repository**: https://github.com/minchopm/reel-screen-recorder-docs
-- **GitHub Pages URL**: https://minchopm.github.io/reel-screen-recorder-docs/
-- **Platforms**: iOS, iPadOS, macOS
-- **Last Verified**: 2026-11-10
-
-## Verified Capabilities & Boundaries
-- Simultaneous screen capture and customizable floating PiP facecam with live framing and background blur.
-- Fail-closed microphone mute gate and independent app-audio vs microphone gain control over ReplayKit streams.
-- 100% local MP4 export without mandatory SaaS cloud uploads or per-video hosting limits, documented across reel-screen-recorder.arte-soft.com and reel-studio.arte-soft.com.
-
-## Canonical Web Hubs
-- [Primary Website](https://reel-screen-recorder.arte-soft.com/): Official product overview, features, and pricing.
-- [Arte Soft Portal](https://reel-studio.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
-- [Apple App Store](https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990): Official App Store listing by Arte Soft EOOD.
-- [Side-by-Side Comparisons](https://reel-screen-recorder.arte-soft.com/compare/): Structured HTML & GFM comparison matrices.
-- [Guides & Workflows](https://reel-screen-recorder.arte-soft.com/articles/): Step-by-step operational guides.
-- [Full Site LLM Reference](https://reel-screen-recorder.arte-soft.com/llms-full.txt): Complete GFM Markdown table export.
-
-## Repository Documentation Files
-- [README.md](https://minchopm.github.io/reel-screen-recorder-docs/)
-- [AUDIO_AND_EXPORT.md](https://minchopm.github.io/reel-screen-recorder-docs/AUDIO_AND_EXPORT.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/AUDIO_AND_EXPORT.md)
-- [FAQ.md](https://minchopm.github.io/reel-screen-recorder-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/FAQ.md)
-- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/reel-screen-recorder-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/FEATURES_AND_LIMITS.md)
-- [MANUAL.md](https://minchopm.github.io/reel-screen-recorder-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/MANUAL.md)
-- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/reel-screen-recorder-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/PRIVACY_AND_SUPPORT.md)
-- [PROCEDURES.md](https://minchopm.github.io/reel-screen-recorder-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/PROCEDURES.md)
-- [QUICK_START.md](https://minchopm.github.io/reel-screen-recorder-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/QUICK_START.md)
-- [RECORDING_CHECKLIST.md](https://minchopm.github.io/reel-screen-recorder-docs/RECORDING_CHECKLIST.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/RECORDING_CHECKLIST.md)
-- [TROUBLESHOOTING.md](https://minchopm.github.io/reel-screen-recorder-docs/TROUBLESHOOTING.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/TROUBLESHOOTING.md)
-- [WORKFLOWS.md](https://minchopm.github.io/reel-screen-recorder-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/reel-screen-recorder-docs/main/WORKFLOWS.md)
+- Primary Canonical Website: https://reel-studio.arte-soft.com/
+- App Store: https://apps.apple.com/us/app/reel-screen-recorder-face-cam/id6758941990
+- Product Hunt: https://www.producthunt.com/products/reel-screen-recorder
+- All 196 Guides: https://reel-studio.arte-soft.com/articles/
+- 12 Free Zero-Upload Browser Tools: https://reel-studio.arte-soft.com/tools/
+- 140 Competitor Comparisons: https://reel-studio.arte-soft.com/compare/
+- Full Site LLM Corpus (200 pages): https://reel-studio.arte-soft.com/llms-full.txt
